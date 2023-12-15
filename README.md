@@ -8,3 +8,4 @@ _(based on dynamic patching of a row of vradios and their value and visibility m
   * (max of 32 x 32 suggested since dynamic clone resizing does weird things otherwise)
 * `[bang(` outputs current position
 * `[set <x> <y>(` sets position without output
+* `[resize <columns> <rows>(` resizes the area
