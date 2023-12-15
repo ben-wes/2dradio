@@ -32,10 +32,6 @@
 #X obj 552 399 t f a;
 #X obj 552 561 t f b;
 #N canvas 261 152 1192 654 \$0-canvas 0;
-#X obj 800 60 vradio 19 1 0 2 1158-0-snd 1158-0-rcv empty 0 -10 0 12 #fcfcfc #000000 #000000 0;
-#X obj 819 60 vradio 19 1 0 2 1158-1-snd 1158-1-rcv empty 0 -10 0 12 #fcfcfc #fcfcfc #000000 0;
-#X obj 800 60 cnv 2 7 2 empty empty empty 20 12 0 12 #000000 #000000 0;
-#X obj 800 96 cnv 2 7 2 empty empty empty 20 12 0 12 #000000 #000000 0;
 #X coords 0 -1 1 1 38 38 2 800 60;
 #X restore 800 60 pd \$0-canvas;
 #X obj 85 327 t f b;
